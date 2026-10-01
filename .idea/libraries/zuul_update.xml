@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zuul_update">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zuul_update.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/zuul_update.jar!/" />
+    </SOURCES>
+  </library>
+</component>
